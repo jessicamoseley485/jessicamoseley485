@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **API and web development using Django, as well as an introduction to machine learning (through libraries such as NumPy and scikit-learn)**
 
-- 📫 How to reach me **jm03022@surrey.ac.uk**
+- 📫 How to reach me **jessicamoseley485@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
