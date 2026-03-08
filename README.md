@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jessica Moseley</h1>
 <h3 align="center">A passionate second year Computer Science student at the University of Surrey</h3>
 
-- ❤️ I'm interested in <b>software and game development</b>
+- ❤️ I'm interested in <b>software development and cyber security</b>
 
-- 🌱 I’m currently learning **API and web development using Django, as well as an introduction to machine learning (through libraries such as NumPy and scikit-learn)**
+- 🌱 I’m currently learning **API and web development using Django, and cyber security (including cryptography, ciphers, and network security)**
 
 - 📫 How to reach me **jessicamoseley485@gmail.com**
 
