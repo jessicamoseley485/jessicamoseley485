@@ -3,7 +3,7 @@
 
 - ❤️ I'm interested in <b>software development and cyber security</b>
 
-- 🌱 I’m currently learning **API and web development using Django, and cyber security (including cryptography, ciphers, and network security)**
+- 🌱 I’m currently learning **API and web development using Django, and cyber security**
 
 - 📫 How to reach me **jessicamoseley485@gmail.com**
 
